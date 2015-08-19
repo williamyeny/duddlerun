@@ -1,0 +1,9 @@
+TRAPS:
+  MINES
+  BEAR TRAPS
+  QUICKSAND
+  
+PLAYER:
+  BODY
+  LEGS
+  
